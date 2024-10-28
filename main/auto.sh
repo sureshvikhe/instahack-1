@@ -46,6 +46,6 @@ echo
 sleep 1.0
 cd $HOME
 fi
-sleep 10.0
+sleep 1.0
 cd $HOME/instahack
 bash instahack.sh
